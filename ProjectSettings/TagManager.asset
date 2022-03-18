@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Trap
+  - Spike
+  - FallDownTrap
+  - Enemy
+  - Arma
+  - Llave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Lejano
+  - Medio
+  - Nubes
+  - Cielo
+  - Cercano
+  - Ground
+  - Jugador
+  - Delante
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Cielo
+    uniqueID: 592387705
+    locked: 0
+  - name: Lejano
+    uniqueID: 4251842375
+    locked: 0
+  - name: Nubes
+    uniqueID: 370631087
+    locked: 0
+  - name: Medio
+    uniqueID: 2133981329
+    locked: 0
+  - name: Cercano
+    uniqueID: 3421819915
+    locked: 0
+  - name: Ground
+    uniqueID: 3580215165
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemigo
+    uniqueID: 2659728637
+    locked: 0
+  - name: Jugador
+    uniqueID: 3782556415
+    locked: 0
+  - name: Delante
+    uniqueID: 2399811243
+    locked: 0
